@@ -1,4 +1,9 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+* {
+  background: #f7f7f7;
+  margin: 20px;
+}
+
+#ativar {
+  display: block;
+  margin: 20px auto;
 }
